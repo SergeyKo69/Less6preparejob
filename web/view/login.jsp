@@ -5,6 +5,7 @@
   Time: 18:41
   To change this template use File | Settings | File Templates.
 --%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
@@ -25,13 +26,6 @@
             </tr>
             <tr>
                 <td><input type="submit" value="Sigh in"/></td>
-            </tr>
-        </table>
-    </form>
-    <form action="registration" method="get">
-        <table width="50%">
-            <tr>
-                <td><input type="submit" value="Registration"/></td>
             </tr>
         </table>
     </form>
